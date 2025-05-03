@@ -1,0 +1,10 @@
+pandas
+tqdm
+wandb
+weave
+torch
+wtpsplit
+bitsandbytes
+transformers
+accelerate
+sentencepiece
